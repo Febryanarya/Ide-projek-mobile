@@ -5,6 +5,7 @@ MerbabuAccess
 
 Aplikasi mobile untuk sistem booking dan manajemen pendakian Gunung Merbabu berbasis Flutter, terinspirasi dari booking.tngunungmerbabu.org.
 
+
  Fitur Utama
 
 •Daftar Paket: Lihat paket pendakian (Selo, Suwanting, Wekas) dengan harga & kuota
@@ -26,6 +27,9 @@ Teknologi
 •Firebase (Auth, Database, Storage)
 
 •Package: qr_flutter, http, intl, provider
+
+
+
 
 Struktur Folder
 
